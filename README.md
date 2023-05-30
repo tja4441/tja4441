@@ -1,6 +1,6 @@
 # Hi, I’m Tim!
 I use GitHub mostly for school projects & personal projects. 
-I'm comfortable programming with Java, Python, and I'm learning C.
+I have experience working with Python, Java, HTML, CSS, and Javascript, and I'm learning C.
 ## Contact Information
 - Email: tja4441@rit.edu
 - Phone: (585) 474-3477
