@@ -1,6 +1,14 @@
-# Hi, I’m Tim!
-I use GitHub mostly for school projects & personal projects. 
-I have experience working with Python, Java, HTML, CSS, and Javascript, and I'm learning C.
+# Hey, I’m Tim!
+I'm a third year student at RIT. I'm enrolled in an accelerated Master's Degree program for Computer Engineering.
+## Programming Languages (in order of proficiency)
+- Java
+- VHDL
+- Assembly (ARM Cortex M0+)
+- System Verilog
+- Python
+- Javascript/Typescript
+- HTML
+- C
 ## Contact Information
 - Email: tja4441@rit.edu
 - Phone: (585) 474-3477
