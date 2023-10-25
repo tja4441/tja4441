@@ -1,6 +1,6 @@
 # Hey, I’m Tim!
 I'm a third year student at RIT. I'm enrolled in an accelerated Master's Degree program for Computer Engineering.
-## Programming Languages (in order of proficiency)
+## Programming Languages
 - Java
 - VHDL
 - Assembly (ARM Cortex M0+)
