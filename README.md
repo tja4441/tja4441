@@ -12,6 +12,7 @@ I'm a third year student at RIT. I'm enrolled in an accelerated Master's Degree 
 ## Contact Information
 - Email: tja4441@rit.edu
 - Phone: (585) 474-3477
+- LinkedIn: www.linkedin.com/in/timothyjavila/
 
 <!---
 tja4441/tja4441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
