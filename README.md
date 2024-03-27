@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 My name is Tim. I'm a third year student at RIT. I'm enrolled in an accelerated Master's Degree program for Computer Engineering.
-## Programming Languages
+## Programming Languages I'm comfortable with
 - C
 - Java
 - VHDL
